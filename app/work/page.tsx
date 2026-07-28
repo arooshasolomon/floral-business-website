@@ -2,8 +2,8 @@ import Link from "next/link";
 import { SiteFooter, SiteHeader } from "../site-chrome";
 
 const studies = [
-  ["Afterglow", "Gerbera · Craspedia · Sea holly", "https://images.unsplash.com/photo-1594663653925-365bcbf7ef6f?auto=format&fit=crop&w=1400&q=92"],
-  ["Soft Orbit", "Dahlia · Astilbe · Dancing stems", "https://images.unsplash.com/photo-1596438459194-f275f413d6ff?auto=format&fit=crop&w=1400&q=92"],
+  ["Afterglow", "Gerbera · Craspedia · Sea holly", "/IMG_9534.jpg"],
+  ["Soft Orbit", "Dahlia · Astilbe · Dancing stems", "/IMG_9536.jpg"],
   ["Blue Hour", "Anemone · Cosmos · Larkspur", "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1400&q=92"],
   ["Field Note", "Chamomile · Scabiosa · Wild greens", "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?auto=format&fit=crop&w=1400&q=92"],
 ];
