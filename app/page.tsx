@@ -12,7 +12,7 @@ export default function Home() {
         </div>
         <figure className="home-image">
           <img src="https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=1500&q=92" alt="Sculptural seasonal floral arrangement" />
-          <figcaption> Contemporary / revolved / One of one</figcaption>
+          <figcaption> Contemporary / Revolved / One of one</figcaption>
         </figure>
         <Link className="orbit-link" href="/work"><span>Enter the studio</span><b>↗</b></Link>
         <span className="edition">Setare Studies · No. 01</span>
